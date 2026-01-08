@@ -40,10 +40,10 @@ export default function Login() {
 >
         {/* Text block */}
         <div className="max-w-sm -translate-y-12 ">
-          <h1 className="text-xl font-semibold leading-snug mb-4 text-white text-center text-[30px]">
+          <h1 className="text-xl font-semibold leading-snug mb-4 text-white text-center text-[35px]">
             Your systems.
             <br />
-            <span className="text-xl font-semibold leading-snug mb-4 text-[#34b2d1] text-[30px]">
+            <span className="text-xl font-semibold leading-snug mb-4 text-[#34b2d1] text-[35px]">
               Assessed by AI.
             </span>
           </h1>
