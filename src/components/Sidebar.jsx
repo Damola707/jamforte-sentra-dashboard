@@ -19,7 +19,7 @@ export default function Sidebar() {
     const [active, setActive] = useState("Dashboard");
   return (
     <aside className="w-45h-screen px-4 py-6 bg-white dark:bg-[#020617] text-gray-800 dark:text-gray-200">
-      <h1 className="text-xl font-semibold mb-8 tracking-wide">SENTRA</h1>
+      <h1 className="text-xl font-semibold mb-8 tracking-wide pl-3">SENTRA</h1>
 
       <nav className="space-y-2">
   {items.map(({ icon: Icon, label }) => {
